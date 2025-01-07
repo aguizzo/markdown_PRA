@@ -28,11 +28,11 @@ This is a rough approach of how I want to spend my time during the week. With th
 > ***16:00 p.m.***
 
 > ***16:00 p.m.***
->> Have lunch
+>> Have lunch + free Time
 >>
-> ***17:00 p.m.***
+> ***17:30 p.m.***
 
-> ***17:00 p.m.***
+> ***17:30 p.m.***
 >> 
 >> 
 > ***20:00 p.m***
@@ -52,8 +52,8 @@ This is a rough approach of how I want to spend my time during the week. With th
 >>
 > ***23:30 p.m.***
 
-Max personal time -> $3+3+2 = 8 hours$  
-Min personal time -> $8 - 1.15 - 1 = 5:45 hours$
+Max personal time -> $3+2:30+2 = 7:30 hours$  
+Min personal time -> $7:30 - 1.15 - 1 = 5:15 hours$
 
 Some days I have driving classes at afternoon (-1:15 h)   
 At class maybe I could have two hours at most (-1 h)
