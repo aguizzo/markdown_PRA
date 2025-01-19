@@ -23,10 +23,11 @@ In this [document](TimeSchedule.md) there are the details about how I obtained t
    - Change the backlog and see if I can achieve my goals.
    - Change planning if needed.
 2. Search for team members.
-   - Ask classmates whether they are interest.ed or not.
+   - Ask classmates whether they are interested or not.
    - Decide roles to obtain a cross-functional team.
 3. Java:
-   - Spring Data JDBC and MongoDB
+   - ~~Spring Data JDBC and MongoDB~~
+   - Spring MVC
    - Java Programming II Part 10 and 11.
 4. Design patterns
 
@@ -36,7 +37,8 @@ In this [document](TimeSchedule.md) there are the details about how I obtained t
    - Schedule meetings.
    - Write a document with ideas.
 2. Java:
-   - Spring MVC.
+   - ~~Spring MVC.~~
+   - Spring Data JDBC and MongoDB
    - Java Programming II Part 12 and 13.
 3. Design patterns.
 
